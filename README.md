@@ -7,7 +7,10 @@ Uber Analysis (2024) – This project analyzes uber-booking data using Power BI,
 ✅ Python_KPIs.ipynb (or PDF)
 ✅ uber.csv(raw dataset)
 ✅ README.md (this file)
+
 ## 1. Power BI Dashboard
+### link for direct of dashboard
+<a href="https://github.com/siddharthsinghnegi/UBER_DATA/blob/main/UBERBI.pdf">Dashboard</a>
 
 The dashboard is divided into two main pages.
 
